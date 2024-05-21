@@ -1,8 +1,11 @@
 [book]
 title = "Medieval World History Study Guide"
+authors = ["Jacob Signorovitch", "Eithan Wu"]
 language = "en"
 multilingual = false
 src = "src"
 
 [output.html]
 additional-css = ["./theme/catppuccin.css"]
+git-repository-url = "https://github.com/comshc/guide"
+git-repository-icon = "fa-github"

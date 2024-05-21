@@ -2,16 +2,12 @@
 
 [Introduction](README.md)
 
-# Late Antiquity
-
-- [Introduction](late-antiquity/README.md)
+- [Late Antiquity](late-antiquity/README.md)
   - [Africa in Antiquity](late-antiquity/africa.md)
   - [China in Antiquity](late-antiquity/china.md)
   - [Late Rome](late-antiquity/rome.md)
 
-# Early Middle Ages
-
-- [Introduction](early-middle-ages/README.md)
+- [Early Middle Ages](early-middle-ages/README.md)
   - [The Rise of the Franks](early-middle-ages/franks.md)
   - [Benedictine Monasticism](early-middle-ages/benedictine.md)
   - [Muhammad & the Rise of Islam](early-middle-ages/islam.md)
@@ -19,9 +15,7 @@
   - [The Umayyad Dynasty](early-middle-ages/umayyad.md)
   - [Early Medieval China](early-middle-ages/china.md)
 
-# Central Middle Ages
-
-- [Introduction](central-middle-ages/README.md)
+- [Central Middle Ages](central-middle-ages/README.md)
   - [The Kingdom of Ghana](central-middle-ages/ghana.md)
   - [The 'Abbasids & a Golden Age of Islamic Culture](central-middle-ages/abbasids.md)
   - [Rise of the Carolingian Empire of the Franks](central-middle-ages/franks.md)
@@ -32,9 +26,7 @@
   - [Religious Reform / Church-State Controversy I](central-middle-ages/reform.md)
   - [France: The Capetians & Norman Expansionism](central-middle-ages/france.md)
 
-# High Middle Ages
-
-- [Introduction](high-middle-ages/README.md)
+- [High Middle Ages](high-middle-ages/README.md)
   - [The Crusades](high-middle-ages/crusades.md)
   - [Life on the Manor](high-middle-ages/manor.md)
   - [Court Life & Courtly Love](high-middle-ages/court.md)
@@ -46,9 +38,7 @@
   - [Germany & the Roman Empire / Church-State Controversy II](high-middle-ages/germany.md)
   - [Religious Reform & Heresy](high-middle-ages/reform.md)
 
-# Late Middle Ages
-
-- [Introduction](late-middle-ages/README.md)
+- [Late Middle Ages](late-middle-ages/README.md)
   - [Century Europe: Societal & Economic Upheaval](late-middle-ages/societal.md)
   - [Century Europe: Religious & Intellectual Upheaval](late-middle-ages/religious.md)
   - [Century Muslim World: Ibn Battuta in Africa](late-middle-ages/muslim.md)

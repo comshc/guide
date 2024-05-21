@@ -1,4 +1,4 @@
-# Introduction
+# Early Middle Ages
 
 AD 500-800.
 
