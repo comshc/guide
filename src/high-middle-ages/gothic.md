@@ -1,1 +1,0 @@
-# Romanesque & Gothic Art & Architecture
