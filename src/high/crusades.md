@@ -41,14 +41,24 @@ affliction" on the Arabs.
 This source is from the perspective of a Jewish individual in the Rhineland.
 It views the crusaders quite poorly, as a barbaric and arrogant people. It
 describes their attire as decorated with "a profane symbol — a horizontal line
-over a vertical one."
+over a vertical one." The masses of crusader peasants are referred to as
+locusts:
+
+> Their ranks swelled until the number of men, women, and children exceeded a
+> locust horde covering the earth; of them it was said: "The locusts have no
+> king."
+
+They killed Jews whenever they came across them, as they believed they'd killed
+Jesus and were at the same level as the Muslims.
 
 #### In the Year
 
 - Sourcebook, pages 136-137
+- Christian account of the First Crusade
 
 #### The Power of the Franks
 
 - Sourcebook, pages 137-138
+- Muslim account of the First Crusade
 
 
