@@ -17,13 +17,14 @@ the so-called "People's Crusade". Comprised mainly of untrained peasants, it
 lasted about 6 months. Instead of taking the Holy Land, they got distracted and
 murdered a bunch of Jews.
 
-### Primary Source - *Christian / Jewish / Muslim Accounts of the People's Crusade*
+### Primary Sources - *Christian / Jewish / Muslim Accounts of the People's Crusade*
 
 - Sourcebook, pages 135-138.
 
 #### A Certain Celt
 
 - Sourcebook, page 135
+- Christian account of the People's Crusade
 
 This source follows a Celtic guy named `Peter the Hermit`. He suffered
 "ill-treatment" at the hands of the Turks while doing some pilgrimage, which
@@ -35,5 +36,19 @@ affliction" on the Arabs.
 #### At This Time
 
 - Sourcebook, page 136
+- Jewish account of the People's Crusade
+
+This source is from the perspective of a Jewish individual in the Rhineland.
+It views the crusaders quite poorly, as a barbaric and arrogant people. It
+describes their attire as decorated with "a profane symbol — a horizontal line
+over a vertical one."
+
+#### In the Year
+
+- Sourcebook, pages 136-137
+
+#### The Power of the Franks
+
+- Sourcebook, pages 137-138
 
 
