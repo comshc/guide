@@ -62,3 +62,19 @@ locusts:
 They killed Jews whenever they came across them, as they believed they'd killed
 Jesus and were at the same level as the Muslims.
 
+<<<<<<< HEAD
+=======
+#### In the Year
+
+- Sourcebook, pages 136-137
+- Christian account of the First Crusade, 1096-1099
+
+#### The Power of the Franks
+
+- Sourcebook, pages 137-138
+- Muslim account of the First Crusade, 1096-1099
+
+
+
+
+>>>>>>> 89ec7492142736bd8213331d4ba3e7bf352bcac8

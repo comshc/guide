@@ -13,6 +13,11 @@ devout Muslim, and made a pilgrimage to Mecca in `1324`. While there, a guy
 named *Shihab al-Din Abu al-Abbas Ahmad ibn Fadlallah al-Umari* (`al-Omari`)'s
 friend saw Mr. Musa in Cairo.
 
+# Primary Source
+
+- 
+- al-Omari, *Masalik al-Absar fi Mamalik al-Amsar*, 1337-1349
+
 ## Primary Source: Al-Omari: Mali in the Fourteenth Century
 
 - Sourcebook, pages 194-197
