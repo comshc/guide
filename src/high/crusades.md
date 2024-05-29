@@ -35,6 +35,7 @@ murdered a bunch of Jews.
 
 - Sourcebook, page 135
 - Christian account of the People's Crusade
+- Written 
 
 This source follows a Celtic guy named `Peter the Hermit`. He suffered
 "ill-treatment" at the hands of the Turks while doing some pilgrimage, which
@@ -60,17 +61,4 @@ locusts:
 
 They killed Jews whenever they came across them, as they believed they'd killed
 Jesus and were at the same level as the Muslims.
-
-#### In the Year
-
-- Sourcebook, pages 136-137
-- Christian account of the First Crusade
-
-#### The Power of the Franks
-
-- Sourcebook, pages 137-138
-- Muslim account of the First Crusade
-
-
-
 
