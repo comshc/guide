@@ -10,6 +10,20 @@ join the crusade. They set off in `1096`, in hope of taking the Holy Land from
 the Muslims. Between `1096-1099`, they were able to take many important cities,
 and set up a feudal kingdom called the `Latin Kingdom of Jerusalem`.
 
+### Primary Source: In the Year
+
+- Sourcebook, pages 136-137
+- Christian account of the First Crusade
+
+**TODO**
+
+### Primary Source: The Power of the Franks
+
+- Sourcebook, pages 137-138
+- Muslim account of the First Crusade
+
+**TODO**
+
 ## People's Crusade
 
 At the same time as the "official" crusade, sanctioned by the Pope, there was
@@ -17,11 +31,7 @@ the so-called "People's Crusade". Comprised mainly of untrained peasants, it
 lasted about 6 months. Instead of taking the Holy Land, they got distracted and
 murdered a bunch of Jews.
 
-### Primary Sources - *Christian / Jewish / Muslim Accounts of the People's Crusade*
-
-- Sourcebook, pages 135-138.
-
-#### A Certain Celt
+### Primary Source: A Certain Celt
 
 - Sourcebook, page 135
 - Christian account of the People's Crusade
@@ -33,7 +43,7 @@ large following. They were all kinds of people, men, woman, and children. There
 were some locusts, too, which they interpreted as that they'd "bring dreadful
 affliction" on the Arabs.
 
-#### At This Time
+### Primary Source: At This Time
 
 - Sourcebook, page 136
 - Jewish account of the People's Crusade
