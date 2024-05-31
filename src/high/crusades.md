@@ -62,8 +62,6 @@ locusts:
 They killed Jews whenever they came across them, as they believed they'd killed
 Jesus and were at the same level as the Muslims.
 
-<<<<<<< HEAD
-=======
 #### In the Year
 
 - Sourcebook, pages 136-137
