@@ -1,4 +1,4 @@
-# Empire of Mali
+## Empire of Mali
 
 Because they built little from stone and didn't have written language, there
 exists little archaeological evidence for much of African history. However,
@@ -13,19 +13,23 @@ devout Muslim, and made a pilgrimage to Mecca in `1324`. While there, a guy
 named *Shihab al-Din Abu al-Abbas Ahmad ibn Fadlallah al-Umari* (`al-Omari`)'s
 friend saw Mr. Musa in Cairo.
 
-# Primary Source
+## Primary Source
 
-- 
-- al-Omari, *Masalik al-Absar fi Mamalik al-Amsar*, 1337-1349
+### Primary Source: Al-Omari: Mali in the Fourteenth Century (1337-1349)
 
-## Primary Source: Al-Omari: Mali in the Fourteenth Century
+(pg. 194-197)
 
-- Sourcebook, pages 194-197
-
-This Kankan fellow spoke only through a translator, though he could speak
-perfect Arabic. He had with him a whole bunch of gold, which he distributed too
-much, causing the price of gold to crash and fucking up their economy.
-al-Omari's friend tells him he should go visit the Sultan of Egypt. He
-initially refuses, as he doesn't want to kiss the ground before the Sultan as
-is required. So, instead, he kisses the ground before Allah, satisfying the
-Sultan while still maintaining his dignity.
+- Travels to Cairo, where he hears about Mansa Musa
+- People of Cairo yapp about the large expenditures of "those people"
+- Meets with some Emir Abul Haki, who tells him about Mansa Musa
+- The Emir tells about how Mansa Musa is reluctant to kiss Sultan Malik Nasir's hand or the ground before him
+- He prostrates himself for Allah instead and they lived happily ever after
+- Sultan Malik Nasir gave him a bunch of gifts and gold for his pilgrimage.
+- Mansa Musa gave a bunch of gold to so many people that the price of gold crashed in Cairo
+- After 12 years, it still hadn't recovered
+- Mansa Musa gets pissed if you call him the king of Tekrur (jokes on him, hes dead)
+- Describes the reception in his court, where a bunch of Turkish dudes hold umbrellas and his officers sit in a circle around him in 2 rows. And obviously gold.
+- Describes the significance of Arab horses; horse mounted cavalry because the art of riding camels was not discovered or something 
+- Gives all orders orally, and writes nothing
+- Describes how his predecessor, Abu Bakr, equipped 200 ships with men and 200 more with gold. One ship returns
+-  Abu Bakr copes really hard so he sets up 2000 ships with gold and men, and takes a trip himself, never to return. Mansa Musa gains power in this way.
