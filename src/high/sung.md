@@ -1,10 +1,5 @@
 # Sung China
 
-<<<<<<< HEAD
-## Primary Source: 
-
-- Sung Ghost Stories, 1161-1198
-=======
 ## Social Structure
 - Previously, the government was exclusively composed of the Imperial family and Scholarly-Elite. The Scholarly Elite were the only ones allowed to take the exam, and thus the only ones allowed to hold government positions.
 - In the Song Dynasty, as cities developed merchants and craftsmen began to form a growing middle class. 
@@ -93,4 +88,3 @@ The government itself took the following structure:
 - However as he's traveling to the city, officials find his son's dead body inside the silkworm leaves.
 - The officials also find the dead body of his wife under the mulberry tree.
 - The farmer dude dies in prison
->>>>>>> 4062da167326b541939a098f352e03f91307122d
