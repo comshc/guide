@@ -13,3 +13,4 @@
   - [14th Century Europe](late/euro.md)
 
 - [Renaissance](rena/README.md)
+  - [Renaissance](rena/rena.md)
