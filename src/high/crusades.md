@@ -72,7 +72,3 @@ Jesus and were at the same level as the Muslims.
 - Sourcebook, pages 137-138
 - Muslim account of the First Crusade, 1096-1099
 
-
-
-
->>>>>>> 89ec7492142736bd8213331d4ba3e7bf352bcac8
