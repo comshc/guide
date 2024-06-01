@@ -42,11 +42,11 @@ written during this time.
   refused. Philip also confiscated the treasury of the Order of Templars and
   stole money from the Jews.
 - Boniface releases the Clericos Laicos which states that kings must have
-  approval from the Papcy before they tax clergy. 
+  approval from the Papacy before they tax clergy. 
 - Philip responds by doing a gold/silver embargo on the Papacy, and Boniface is
   forced to withdraw the Clericos Laicos.
 - In the early 14th century, Philip pisses off Boniface multiple times, and
-  Boniface responds everytime with a new papal bull.
+  Boniface responds every time with a new papal bull.
 - Philip sent troops to arrest the Pope, who was later released.
 - Boniface gets arrested once more, but he flees to Rome, and dies of a stroke.
 
@@ -59,13 +59,13 @@ written during this time.
 - The Avignon Papacy was a period of corruption and scandal, with the papacy
   being controlled by the French monarchy (kind of).
 - The papacy was also very good at collecting taxes (the IRS???????)
-- Pople Gregory XI moved the papacy back to Rome in 1377, but then he died (the
+- Pope Gregory XI moved the papacy back to Rome in 1377, but then he died (the
   conclusion is obvious: Rome = Death).
 - The College of the Cardinals elected their own pope, called Urban.
 - Meanwhile, the French elected their own pope, called Clement.
 - The Great Schism of 1378-1417 followed, with two popes being elected, one in
 - Rome and one in Avignon.
-- The Schism was resolved when the Coucil of Pisa elected a new pope to depose
+- The Schism was resolved when the Council of Pisa elected a new pope to depose
   the previous 2 popes, but instead, they just accidentally elected a third
   pope.
 - Fortunately, the Council of Constance in 1414 met for 4 years and deposed all
@@ -75,7 +75,7 @@ written during this time.
 
 - The Avignon Papacy and the Great Schism weakened the papacy and the church's
   authority.
-- Seperated the church from the people, and the church from the state.
+- Separated the church from the people, and the church from the state.
 - Mysticism and heresy became more popular.
 
 ## Black Plague
@@ -94,33 +94,29 @@ written during this time.
 - The economy was devastated, and the price of labor increased.
 - Closely related to the rise of the Renaissance and Capitalism.
 
-### Sources
-
-- We know so much about the plague because of the Decameron, written by
-  Boccaccio in 1353. It's a collection of 100 stories told by 10 people who
-  fled Florence during the plague.
-- The title means "10 days" which is a play on Hexameron, a 6-day creation
-  story in the Bible.
-
 ## Primary Source: Decameron
 
 ### General Information
 
 - Written by Giovanni Boccaccio (1313-1375)
   - Was a Florentine writer and humanist
-- Written in 1353
+- Written in `1353`
+- Collection of 100 stories told by 10 people who fled Florence because of the
+  plague
+  - The title is a play on the *Hexameron*, or the six days it took God to
+    create the universe; *Decameron* means 10 days.
 
 ### Source Summary
 
 - A collection of 100 stories told by 10 people who fled Florence during the
   plague.
-- Describes how despite all the quarintines and precautions, the plague still
+- Describes how despite all the quarantines and precautions, the plague still
   spread in Florence, with very strange symptoms.
 - Talks extensively about the tumors and the boils that the plague caused.
 - Some physicians were not qualified at all , and practised medicine without
   any understanding of medicine.
 - Most people who began exhibiting symptoms died soon after.
-- Shit spread like crazy; even clothes that had ben touched by a sick person
+- Shit spread like crazy; even clothes that had been touched by a sick person
   was contaminated 
 - Nonhuman creatures would die of "instantaneous death" when in contact with an
   infected human.
