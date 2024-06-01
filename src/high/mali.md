@@ -1,4 +1,4 @@
-## Empire of Mali
+# Empire of Mali
 
 Because they built little from stone and didn't have written language, there
 exists little archaeological evidence for much of African history. However,
@@ -8,18 +8,26 @@ Empire of Mali was quite adept at. The Empire also became predominantly Muslim,
 and its cities of Timbuktu and Djenné became famous centers of learning. They
 also obtained obscene riches.
 
-In 1307, this guy named `Kankan Musa` inherited the throne of Mali. He was a
+In `1307`, this guy named `Kankan Musa` inherited the throne of Mali. He was a
 devout Muslim, and made a pilgrimage to Mecca in `1324`. While there, a guy
 named *Shihab al-Din Abu al-Abbas Ahmad ibn Fadlallah al-Umari* (`al-Omari`)'s
 friend saw Mr. Musa in Cairo.
 
-## Primary Source
+## Primary Source: Mali in the Fourteenth Century
 
-### Primary Source: Al-Omari: Mali in the Fourteenth Century (1337-1349)
+### Basic Information
 
-(pg. 194-197)
+- Written by al-Omari
+  - Arab historian from Damascus
+- Technically, a second-hand account
+- Happened `1324`
+- Written 1337-1349(?)
+- Sourcebook, pg. 194-197
 
-- Travels to Cairo, where he hears about Mansa Musa
+### Source Summary
+
+- A transcription of al-Omari's friend's experience
+- He travels to Cairo, where he hears about Mansa Musa
 - People of Cairo yapp about the large expenditures of "those people"
 - Meets with some Emir Abul Haki, who tells him about Mansa Musa
 - The Emir tells about how Mansa Musa is reluctant to kiss Sultan Malik Nasir's hand or the ground before him
